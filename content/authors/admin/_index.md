@@ -1,13 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: Carlos M. Lorenzetti
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Carlos
+middle_name: Martin
+last_name: Lorenzetti
 
 # Status emoji
 status:
@@ -17,25 +18,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Personal de Apoyo Principal (CPA)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: ICIC CONICET - UNS
+    url: https://icic.conicet.gov.ar/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cml@cs.uns.edu.ar'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/kchol
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kcholoren
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/kcholoren/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
