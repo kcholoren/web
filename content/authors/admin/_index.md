@@ -18,13 +18,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Personal de Apoyo Principal (CPA)
-role: 
+role: Personal de Apoyo Principal (CPA)<br>Profesor Asistente
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ICIC CONICET - UNS
     url: https://icic.conicet.gov.ar/
+  - name: Universidad Nacional del Sur
+    url: http://www.uns.edu.ar/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
