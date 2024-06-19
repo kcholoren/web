@@ -61,21 +61,22 @@ education:
     summary: |
       Promedio: 8.4/10
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Materias:
+      - Programación
+      - Arquitectura de Computadoras
+      - Simulación
+      - Redes
   - area: Técnico Electrónico
-    institution:  Escuela de Educación Técnica N°1, Ingeniero White, 1997
+    institution:  Escuela de Educación Técnica N°1, “Crucero A.R.A General Belgrano”, Ingeniero White, 1997
     date_start: 1992-03-01
     date_end: 1997-12-01
     summary: |
       Promedio: 8.5/10
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Materias:
+      - Electrónica
+      - Sistemas digitales
+      - 
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -174,4 +175,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Actualemnte soy Personal de Apoyo en un Instituto del CONICET, en donde desarrollo software para investigación y transferencia, principalmente aplicado a la optimización de procesos empresariales aplicando técnica de inteligencia artificial. También administro los servidores de investigación del DCIC, manejando máquinas virtuales y todo tipo de entornos de desarrollo. Además soy Profesor de materias de programación y de paquetes de edición de documentos.
