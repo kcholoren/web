@@ -3,7 +3,7 @@
 title: Carlos M. Lorenzetti
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Carlos
@@ -19,6 +19,7 @@ superuser: true
 
 # Role/position/tagline
 role: Personal de Apoyo Principal (CPA)
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,36 +38,38 @@ profiles:
     url: https://github.com/kcholoren
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kcholoren/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com.ar/citations?user=NY5LXYsAAAAJ&hl=en
+  - icon: brands/orcid
+    url: http://orcid.org/0000-0002-8046-2701
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Doctor en Ciencias de la Computación
+    institution: Universidad Nacional del Sur
+    date_start: 2006-04-01
+    date_end: 2011-03-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Tesis sobre Caracterización Formal y Análisis Empírico de Mecanismos Incrementales de Búsqueda basados en Contexto. Supervisada por [Dra Ana G. Maguitman](http://cs.uns.edu.ar/~agm/). Con artículos presentados en conferencias nacionales e internacionales y 3 revistas indexadas.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Leer la tesis'
+      url: 'https://repositoriodigital.uns.edu.ar/handle/123456789/2153'
+  - area: Ingeniero en Sistemas de Computación
+    institution: Universidad Nacional del Sur
+    date_start: 1998-03-01
+    date_end: 2005-03-01
     summary: |
-      GPA: 3.8/4.0
+      Promedio: 8.4/10
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Técnico Electrónico
+    institution:  Escuela de Educación Técnica N°1, Ingeniero White, 1997
+    date_start: 1992-03-01
+    date_end: 1997-12-01
     summary: |
-      GPA: 3.4/4.0
+      Promedio: 8.5/10
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
