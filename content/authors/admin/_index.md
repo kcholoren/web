@@ -74,9 +74,9 @@ education:
       Promedio: 8.5/10
       
       Materias:
-      - Electrónica
-      - Sistemas digitales
-      - 
+      - Electrónica Digital
+      - Análisis de circuitos
+      - Electrónica Analógica
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
