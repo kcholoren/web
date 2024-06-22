@@ -78,28 +78,43 @@ education:
       - Análisis de circuitos
       - Electrónica Analógica
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Ayudante de docencia
+    company_name: Universidad Nacional del Sur
+    company_url: 'http://www.uns.edu.ar'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2003-10-01
+    date_end: 2009-12-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Materias:
+      - Física II (Electromagnetismo)
+      - Computación Gráfica
+      - Organización de Computadoras
+  - position: Administrador de sistemas 
+    company_name: Trans Bahía S.A.
+    company_url: 'https://transbahia.com.ar/'
+    company_logo: ''
+    date_start: 2006-01-01
+    date_end: 2006-03-31
+    summary: |
+      Actividades:
+      - Administrador de Sistemas
+      - Asistencia a usuarios
+      - Administración de servidores Windows
+      - Administración de sistemas Windows
+  - position: Administrador de sistemas 
+    company_name: DCS Desarrollos Tecnológicos
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2005-04-01
+    date_end: 2005-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Actividades:
+      - Administrador de Sistemas
+      - Asistencia a usuarios
+      - Administración de servidores Windows
+      - Active Directory
+      - Administración de sistemas Windows
+      - Desarrollo de software
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
