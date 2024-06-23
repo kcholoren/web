@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Personal de Apoyo Principal (CPA)<br>Profesor Asistente
+role: Personal de Apoyo Principal (CPA) <br> Profesor Adjunto
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -49,8 +49,8 @@ education:
     institution: Universidad Nacional del Sur
     date_start: 2006-04-01
     date_end: 2011-03-16
-    summary: |
-      Tesis sobre Caracterización Formal y Análisis Empírico de Mecanismos Incrementales de Búsqueda basados en Contexto. Supervisada por [Dra Ana G. Maguitman](http://cs.uns.edu.ar/~agm/). Con artículos presentados en conferencias nacionales e internacionales y 3 revistas indexadas.
+    summary: >
+      Tesis sobre Caracterización Formal y Análisis Empírico de Mecanismos Incrementales de Búsqueda basados en Contexto. Supervisada por la [Dra Ana G. Maguitman](http://cs.uns.edu.ar/~agm/). Con artículos presentados en conferencias nacionales e internacionales y 3 revistas indexadas.
     button:
       text: 'Leer la tesis'
       url: 'https://repositoriodigital.uns.edu.ar/handle/123456789/2153'
@@ -78,6 +78,66 @@ education:
       - Análisis de circuitos
       - Electrónica Analógica
 work:
+  - position: Profesional Principal
+    company_name: CONICET (Instituto de Ciencias de la Computación)
+    company_url: 'https://icic.conicet.gov.ar'
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: ''
+    summary: |2-
+      Actividades:
+      - Administración de servidores de alto desempeño
+      - Actividades de transferencia tecnológica
+  - position: Profesional Adjunto
+    company_name: CONICET (Instituto de Ciencias de la Computación)
+    company_url: 'https://icic.conicet.gov.ar'
+    company_logo: ''
+    date_start: 2018-11-01
+    date_end: 2023-10-31
+    summary: |2-
+      Actividades:
+      - Administración de sistemas
+      - Virtualización (KVM, LXC)
+      - Desarrollo de algoritmos (python, C++, R)
+  - position: Investigador Asistente
+    company_name: CONICET (Instituto de Ciencias de la Computación)
+    company_url: 'https://icic.conicet.gov.ar'
+    company_logo: ''
+    date_start: 2012-07-01
+    date_end: 2018-09-30
+    summary: |2-
+      Tema de investigación:
+      - Desarrollo de herramientas para evaluar y comparar métodos de recuperación de información.
+  - position: Profesor Adjunto
+    company_name: Universidad Nacional del Sur
+    company_url: 'http://www.uns.edu.ar'
+    company_logo: ''
+    date_start: 2018-05-01
+    date_end: ''
+    summary: |2-
+      Materias:
+      - Herramientas Informáticas E
+      - Computación Aplicada
+      - Introducción a la Operación de Computadoras Personales
+  - position: Asistente de docencia
+    company_name: Universidad Nacional del Sur
+    company_url: 'http://www.uns.edu.ar'
+    company_logo: ''
+    date_start: 2014-03-01
+    date_end: 2018-04-30
+    summary: |2-
+      Materias:
+      - Introducción a la Operación de Computadoras Personales
+  - position: Ayudante de docencia
+    company_name: Universidad Nacional del Sur
+    company_url: 'http://www.uns.edu.ar'
+    company_logo: ''
+    date_start: 2010-09-01
+    date_end: 2014-02-28
+    summary: |2-
+      Materias:
+      - Simulación
+      - Métodos de Computación Científica
   - position: Ayudante de docencia
     company_name: Universidad Nacional del Sur
     company_url: 'http://www.uns.edu.ar'
@@ -127,12 +187,17 @@ skills:
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 60
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: PHP
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 80
+        icon: devicon/php
+      - name: Office
+        description: 'MS Office, Libreoffice, LaTeX, Google Docs, Office 365'
+        percent: 95
+        icon: keyboard
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -145,18 +210,16 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Fotografía
         description: ''
-        percent: 80
+        percent: 90
         icon: camera
 
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Inglés
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
