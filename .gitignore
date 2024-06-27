@@ -1,1 +1,9 @@
 resources/
+.Rproj.user
+.RData
+.Rhistory
+public
+*.lock
+go.sum
+web.Rproj
+hugo_stats.json
